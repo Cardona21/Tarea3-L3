@@ -1,0 +1,113 @@
+c:\users\moren\onedrive\documentos\visual studio 2015\Projects\ProyectoL3Fiesta\Fiestas\obj\Debug\Win.Fiestas.csprojResolveAssemblyReference.cache
+c:\users\moren\onedrive\documentos\visual studio 2015\Projects\ProyectoL3Fiesta\Fiestas\obj\Debug\Fiestas.FormBienvenida.resources
+c:\users\moren\onedrive\documentos\visual studio 2015\Projects\ProyectoL3Fiesta\Fiestas\obj\Debug\Fiestas.FormGaleria.resources
+c:\users\moren\onedrive\documentos\visual studio 2015\Projects\ProyectoL3Fiesta\Fiestas\obj\Debug\Fiestas.FormLogin.resources
+c:\users\moren\onedrive\documentos\visual studio 2015\Projects\ProyectoL3Fiesta\Fiestas\obj\Debug\Fiestas.FormMenu.resources
+c:\users\moren\onedrive\documentos\visual studio 2015\Projects\ProyectoL3Fiesta\Fiestas\obj\Debug\Fiestas.Properties.Resources.resources
+c:\users\moren\onedrive\documentos\visual studio 2015\Projects\ProyectoL3Fiesta\Fiestas\obj\Debug\Win.Fiestas.csproj.GenerateResource.Cache
+c:\users\moren\onedrive\documentos\visual studio 2015\Projects\ProyectoL3Fiesta\Fiestas\obj\Debug\Fiestas.exe
+c:\users\moren\onedrive\documentos\visual studio 2015\Projects\ProyectoL3Fiesta\Fiestas\obj\Debug\Fiestas.pdb
+c:\users\moren\onedrive\documentos\visual studio 2015\Projects\ProyectoL3Fiesta\Fiestas\bin\Debug\Fiestas.exe.config
+c:\users\moren\onedrive\documentos\visual studio 2015\Projects\ProyectoL3Fiesta\Fiestas\bin\Debug\Fiestas.exe
+c:\users\moren\onedrive\documentos\visual studio 2015\Projects\ProyectoL3Fiesta\Fiestas\bin\Debug\Fiestas.pdb
+c:\users\moren\onedrive\documentos\visual studio 2015\Projects\ProyectoL3Fiesta\Fiestas\bin\Debug\BL_Fiestas.dll
+c:\users\moren\onedrive\documentos\visual studio 2015\Projects\ProyectoL3Fiesta\Fiestas\bin\Debug\BL_Fiestas.pdb
+c:\users\moren\onedrive\documentos\visual studio 2015\Projects\ProyectoL3Fiesta\Fiestas\obj\Debug\Fiestas.FormReservar.resources
+C:\Users\moren\OneDrive\Escritorio\Proyecto3-tarea2\tarea2\Fiestas\bin\Debug\Fiestas.exe.config
+C:\Users\moren\OneDrive\Escritorio\Proyecto3-tarea2\tarea2\Fiestas\obj\Debug\Fiestas.exe
+C:\Users\moren\OneDrive\Escritorio\Proyecto3-tarea2\tarea2\Fiestas\obj\Debug\Fiestas.pdb
+C:\Users\eliaz\OneDrive\Escritorio\tarea2-master\Fiestas\bin\Debug\Fiestas.exe.config
+C:\Users\eliaz\OneDrive\Escritorio\tarea2-master\Fiestas\obj\Debug\Fiestas.exe
+C:\Users\eliaz\OneDrive\Escritorio\tarea2-master\Fiestas\obj\Debug\Fiestas.pdb
+C:\Users\eliaz\OneDrive\Escritorio\tarea2-master\Fiestas\bin\Debug\Fiestas.exe
+C:\Users\eliaz\OneDrive\Escritorio\tarea2-master\Fiestas\bin\Debug\Fiestas.pdb
+C:\Users\eliaz\OneDrive\Escritorio\tarea2-master\Fiestas\bin\Debug\BL_Fiestas.dll
+C:\Users\eliaz\OneDrive\Escritorio\tarea2-master\Fiestas\bin\Debug\EntityFramework.dll
+C:\Users\eliaz\OneDrive\Escritorio\tarea2-master\Fiestas\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eliaz\OneDrive\Escritorio\tarea2-master\Fiestas\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\eliaz\OneDrive\Escritorio\tarea2-master\Fiestas\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\eliaz\OneDrive\Escritorio\tarea2-master\Fiestas\bin\Debug\BL_Fiestas.pdb
+C:\Users\eliaz\OneDrive\Escritorio\tarea2-master\Fiestas\bin\Debug\EntityFramework.xml
+C:\Users\eliaz\OneDrive\Escritorio\tarea2-master\Fiestas\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eliaz\OneDrive\Escritorio\tarea2-master\Fiestas\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\eliaz\OneDrive\Escritorio\tarea2-master\Fiestas\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\eliaz\OneDrive\Escritorio\tarea2-master\Fiestas\obj\Debug\Win.Fiestas.csprojResolveAssemblyReference.cache
+C:\Users\eliaz\OneDrive\Escritorio\tarea2-master\Fiestas\obj\Debug\Fiestas.FormBienvenida.resources
+C:\Users\eliaz\OneDrive\Escritorio\tarea2-master\Fiestas\obj\Debug\Fiestas.FormGaleria.resources
+C:\Users\eliaz\OneDrive\Escritorio\tarea2-master\Fiestas\obj\Debug\Fiestas.FormLogin.resources
+C:\Users\eliaz\OneDrive\Escritorio\tarea2-master\Fiestas\obj\Debug\Fiestas.FormMenu.resources
+C:\Users\eliaz\OneDrive\Escritorio\tarea2-master\Fiestas\obj\Debug\Fiestas.FormReservar.resources
+C:\Users\eliaz\OneDrive\Escritorio\tarea2-master\Fiestas\obj\Debug\Fiestas.Properties.Resources.resources
+C:\Users\eliaz\OneDrive\Escritorio\tarea2-master\Fiestas\obj\Debug\Win.Fiestas.csproj.GenerateResource.Cache
+C:\Users\eliaz\OneDrive\Escritorio\Convertir NDS a CIA\tarea2-master\Fiestas\bin\Debug\Fiestas.exe.config
+C:\Users\eliaz\OneDrive\Escritorio\Convertir NDS a CIA\tarea2-master\Fiestas\obj\Debug\Fiestas.exe
+C:\Users\eliaz\OneDrive\Escritorio\Convertir NDS a CIA\tarea2-master\Fiestas\obj\Debug\Fiestas.pdb
+C:\Users\eliaz\OneDrive\Escritorio\Convertir NDS a CIA\tarea2-master\Fiestas\bin\Debug\Fiestas.exe
+C:\Users\eliaz\OneDrive\Escritorio\Convertir NDS a CIA\tarea2-master\Fiestas\bin\Debug\Fiestas.pdb
+C:\Users\eliaz\OneDrive\Escritorio\Convertir NDS a CIA\tarea2-master\Fiestas\bin\Debug\BL_Fiestas.dll
+C:\Users\eliaz\OneDrive\Escritorio\Convertir NDS a CIA\tarea2-master\Fiestas\bin\Debug\EntityFramework.dll
+C:\Users\eliaz\OneDrive\Escritorio\Convertir NDS a CIA\tarea2-master\Fiestas\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eliaz\OneDrive\Escritorio\Convertir NDS a CIA\tarea2-master\Fiestas\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\eliaz\OneDrive\Escritorio\Convertir NDS a CIA\tarea2-master\Fiestas\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\eliaz\OneDrive\Escritorio\Convertir NDS a CIA\tarea2-master\Fiestas\bin\Debug\BL_Fiestas.pdb
+C:\Users\eliaz\OneDrive\Escritorio\Convertir NDS a CIA\tarea2-master\Fiestas\bin\Debug\EntityFramework.xml
+C:\Users\eliaz\OneDrive\Escritorio\Convertir NDS a CIA\tarea2-master\Fiestas\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eliaz\OneDrive\Escritorio\Convertir NDS a CIA\tarea2-master\Fiestas\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\eliaz\OneDrive\Escritorio\Convertir NDS a CIA\tarea2-master\Fiestas\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\eliaz\OneDrive\Escritorio\Convertir NDS a CIA\tarea2-master\Fiestas\obj\Debug\Win.Fiestas.csprojResolveAssemblyReference.cache
+C:\Users\eliaz\OneDrive\Escritorio\Convertir NDS a CIA\tarea2-master\Fiestas\obj\Debug\Fiestas.FormBienvenida.resources
+C:\Users\eliaz\OneDrive\Escritorio\Convertir NDS a CIA\tarea2-master\Fiestas\obj\Debug\Fiestas.FormGaleria.resources
+C:\Users\eliaz\OneDrive\Escritorio\Convertir NDS a CIA\tarea2-master\Fiestas\obj\Debug\Fiestas.FormLogin.resources
+C:\Users\eliaz\OneDrive\Escritorio\Convertir NDS a CIA\tarea2-master\Fiestas\obj\Debug\Fiestas.FormMenu.resources
+C:\Users\eliaz\OneDrive\Escritorio\Convertir NDS a CIA\tarea2-master\Fiestas\obj\Debug\Fiestas.FormReservar.resources
+C:\Users\eliaz\OneDrive\Escritorio\Convertir NDS a CIA\tarea2-master\Fiestas\obj\Debug\Fiestas.Properties.Resources.resources
+C:\Users\eliaz\OneDrive\Escritorio\Convertir NDS a CIA\tarea2-master\Fiestas\obj\Debug\Win.Fiestas.csproj.GenerateResource.Cache
+C:\Users\eliaz\OneDrive\Escritorio\Proyecto\tarea2-master\Fiestas\bin\Debug\Fiestas.exe.config
+C:\Users\eliaz\OneDrive\Escritorio\Proyecto\tarea2-master\Fiestas\obj\Debug\Fiestas.exe
+C:\Users\eliaz\OneDrive\Escritorio\Proyecto\tarea2-master\Fiestas\obj\Debug\Fiestas.pdb
+C:\Users\eliaz\OneDrive\Escritorio\Proyecto\tarea2-master\Fiestas\bin\Debug\Fiestas.exe
+C:\Users\eliaz\OneDrive\Escritorio\Proyecto\tarea2-master\Fiestas\bin\Debug\Fiestas.pdb
+C:\Users\eliaz\OneDrive\Escritorio\Proyecto\tarea2-master\Fiestas\bin\Debug\BL_Fiestas.dll
+C:\Users\eliaz\OneDrive\Escritorio\Proyecto\tarea2-master\Fiestas\bin\Debug\EntityFramework.dll
+C:\Users\eliaz\OneDrive\Escritorio\Proyecto\tarea2-master\Fiestas\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eliaz\OneDrive\Escritorio\Proyecto\tarea2-master\Fiestas\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\eliaz\OneDrive\Escritorio\Proyecto\tarea2-master\Fiestas\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\eliaz\OneDrive\Escritorio\Proyecto\tarea2-master\Fiestas\bin\Debug\BL_Fiestas.pdb
+C:\Users\eliaz\OneDrive\Escritorio\Proyecto\tarea2-master\Fiestas\bin\Debug\EntityFramework.xml
+C:\Users\eliaz\OneDrive\Escritorio\Proyecto\tarea2-master\Fiestas\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eliaz\OneDrive\Escritorio\Proyecto\tarea2-master\Fiestas\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\eliaz\OneDrive\Escritorio\Proyecto\tarea2-master\Fiestas\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\eliaz\OneDrive\Escritorio\Proyecto\tarea2-master\Fiestas\obj\Debug\Win.Fiestas.csprojResolveAssemblyReference.cache
+C:\Users\eliaz\OneDrive\Escritorio\Proyecto\tarea2-master\Fiestas\obj\Debug\Fiestas.FormBienvenida.resources
+C:\Users\eliaz\OneDrive\Escritorio\Proyecto\tarea2-master\Fiestas\obj\Debug\Fiestas.FormGaleria.resources
+C:\Users\eliaz\OneDrive\Escritorio\Proyecto\tarea2-master\Fiestas\obj\Debug\Fiestas.FormLogin.resources
+C:\Users\eliaz\OneDrive\Escritorio\Proyecto\tarea2-master\Fiestas\obj\Debug\Fiestas.FormMenu.resources
+C:\Users\eliaz\OneDrive\Escritorio\Proyecto\tarea2-master\Fiestas\obj\Debug\Fiestas.FormReservar.resources
+C:\Users\eliaz\OneDrive\Escritorio\Proyecto\tarea2-master\Fiestas\obj\Debug\Fiestas.Properties.Resources.resources
+C:\Users\eliaz\OneDrive\Escritorio\Proyecto\tarea2-master\Fiestas\obj\Debug\Win.Fiestas.csproj.GenerateResource.Cache
+C:\Ejercicios\tarea3-master\Fiestas\bin\Debug\Fiestas.exe.config
+C:\Ejercicios\tarea3-master\Fiestas\obj\Debug\Fiestas.exe
+C:\Ejercicios\tarea3-master\Fiestas\obj\Debug\Fiestas.pdb
+C:\Ejercicios\tarea3-master\Fiestas\bin\Debug\Fiestas.exe
+C:\Ejercicios\tarea3-master\Fiestas\bin\Debug\Fiestas.pdb
+C:\Ejercicios\tarea3-master\Fiestas\bin\Debug\BL_Fiestas.dll
+C:\Ejercicios\tarea3-master\Fiestas\bin\Debug\EntityFramework.dll
+C:\Ejercicios\tarea3-master\Fiestas\bin\Debug\EntityFramework.SqlServer.dll
+C:\Ejercicios\tarea3-master\Fiestas\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Ejercicios\tarea3-master\Fiestas\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Ejercicios\tarea3-master\Fiestas\bin\Debug\BL_Fiestas.pdb
+C:\Ejercicios\tarea3-master\Fiestas\bin\Debug\EntityFramework.xml
+C:\Ejercicios\tarea3-master\Fiestas\bin\Debug\EntityFramework.SqlServer.xml
+C:\Ejercicios\tarea3-master\Fiestas\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Ejercicios\tarea3-master\Fiestas\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Ejercicios\tarea3-master\Fiestas\obj\Debug\Win.Fiestas.csprojResolveAssemblyReference.cache
+C:\Ejercicios\tarea3-master\Fiestas\obj\Debug\Fiestas.FormBienvenida.resources
+C:\Ejercicios\tarea3-master\Fiestas\obj\Debug\Fiestas.FormGaleria.resources
+C:\Ejercicios\tarea3-master\Fiestas\obj\Debug\Fiestas.FormLogin.resources
+C:\Ejercicios\tarea3-master\Fiestas\obj\Debug\Fiestas.FormMenu.resources
+C:\Ejercicios\tarea3-master\Fiestas\obj\Debug\Fiestas.FormReservar.resources
+C:\Ejercicios\tarea3-master\Fiestas\obj\Debug\Fiestas.Properties.Resources.resources
+C:\Ejercicios\tarea3-master\Fiestas\obj\Debug\Win.Fiestas.csproj.GenerateResource.Cache
+C:\Users\moren\OneDrive\Escritorio\tarea3-master\Fiestas\bin\Debug\Fiestas.exe.config
+C:\Users\moren\OneDrive\Escritorio\tarea3-master\Fiestas\obj\Debug\Fiestas.exe
+C:\Users\moren\OneDrive\Escritorio\tarea3-master\Fiestas\obj\Debug\Fiestas.pdb
